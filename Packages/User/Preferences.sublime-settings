@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/hal-xcode-themes/hal-xcode-dark.tmTheme",
+	"font_face": "Iosevka Light",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "duotone-dark.sublime-theme",
+	"ui_native_titlebar": false,
+	"ui_separator": false
+}

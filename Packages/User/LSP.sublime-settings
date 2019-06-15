@@ -1,0 +1,60 @@
+{
+  "clients": {
+    "SourceKit-LSP": {
+      "enabled": true,
+      "command": [
+        "~/Library/Application Support/Sublime Text 3/Packages/sourcekit-lsp/.build/debug/sourcekit-lsp"
+      ],
+      "env": {
+        "SOURCEKIT_TOOLCHAIN_PATH": "/Library/Developer/Toolchains/swift-latest.xctoolchain/"
+      },
+      "languages": [
+        {
+          "scopes": [
+            "source.swift"
+          ],
+          "syntaxes": [
+            "Packages/Swift/Syntaxes/Swift.tmLanguage"
+          ],
+          "languageId": "swift"
+        },
+        {
+          "scopes": [
+            "source.c"
+          ],
+          "syntaxes": [
+            "Packages/C++/C.sublime-syntax"
+          ],
+          "languageId": "c"
+        },
+        {
+          "scopes": [
+            "source.c++"
+          ],
+          "syntaxes": [
+            "Packages/C++/C++.sublime-syntax"
+          ],
+          "languageId": "cpp"
+        },
+        {
+          "scopes": [
+            "source.objc"
+          ],
+          "syntaxes": [
+            "Packages/Objective-C/Objective-C.sublime-syntax"
+          ],
+          "languageId": "objective-c"
+        },
+        {
+          "scopes": [
+            "source.objc++"
+          ],
+          "syntaxes": [
+            "Packages/Objective-C/Objective-C++.sublime-syntax"
+          ],
+          "languageId": "objective-cpp"
+        }
+      ]
+    }
+  }
+}

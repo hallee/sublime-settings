@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"BinaryPlist",
+		"ColorHelper",
+		"Compare Side-By-Side",
+		"Decent Swift Syntax",
+		"EditorConfig",
+		"JSX",
+		"Leaf",
+		"LESS",
+		"LSP",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-swiftlint",
+		"SublimeLinter-eslint",
+		"SyncedSideBar",
+		"Vue Syntax Highlight"
+	]
+}
